@@ -1,2 +1,2 @@
 # ci_calculator
-CI tutorial by realpython
+CI [tutorial](https://realpython.com/python-continuous-integration/) by realpython
